@@ -1,4 +1,4 @@
 <?php 
 
-	echo "funcionou";
+	echo "funcionou mesmo";
 ?>
